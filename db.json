@@ -1,0 +1,26 @@
+{
+  "resto": [
+    {
+      "name": "Sumanth",
+      "Adress": "Tirupati",
+      "email": "sumansai454@gmail.com",
+      "id": 1,
+      "imageUrl": "--"
+    },
+    {
+      "name": "Sai Vishal",
+      "Adress": "Tirupati",
+      "email": "sumansai162@gmail.com",
+      "imageUrl": "C:\\fakepath\\sai.jpeg",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "name": "Ashish Mishra",
+      "password": "123456789",
+      "email": "ashish@gmail.com",
+      "id": 1
+    }
+  ]
+}
